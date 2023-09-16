@@ -2,7 +2,8 @@
 **NAME :** RIYA SINGH
 **GROUP NO.** 8
 
-
+The application allows the users to search for a particular Job role along with the location and displays it by
+scrapping the jobs from the websites.
 
 
 https://github.com/Riy-a/IEEE-Web-Scrapping-Project/assets/78693959/34065afb-6cf9-4739-b2fe-1a5c95bd4b50
